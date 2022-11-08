@@ -23,4 +23,4 @@ Space(hold) while on ledge of a wall: climbs the ledge
 3. added blood decal and sfx for hurt and ultra attacks and normal attacks
 
 # Reach me
-Reddit: u/CharmingSelection533
+Reddit: [u/CharmingSelection533](https://www.reddit.com/user/CharmingSelection533/)
